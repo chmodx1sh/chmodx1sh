@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "c69f9f593ee37f6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b2767acda155cf5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b53c1e3526525b35",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fcc0e5eaebaa69f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88ca99b0813e1df7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1232aa5632dfd788",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1c60863b363a120a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7585de80bd40d87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f3542c27ffabc3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0b2767acda155cf5",
+  "lastOpenFiles": [
+    "README.md",
+    "photo_2021-02-10_22-58-54.jpg"
+  ]
+}
